@@ -1,0 +1,2 @@
+usr/local/bin/pinecoind usr/bin
+usr/local/bin/pinecoin-cli usr/bin

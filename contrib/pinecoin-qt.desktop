@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=PNE
+Comment=PNE P2P Cryptocurrency
+Comment[fr]=PNE, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=PNE, eşten eşe kriptografik sanal para birimi
+Exec=pinecoin-qt %u
+Terminal=false
+Type=Application
+Icon=pinecoin128
+MimeType=x-scheme-handler/pinecoin;
+Categories=Office;Finance;
